@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Secondary Brain
 
 AI Secondary Brain is a private, local-first memory app for recorded conversations. It records audio in the browser, stores audio and transcripts locally, uses Faster-Whisper for local speech-to-text, uses Ollama for summaries and Q&A, and keeps all memory data in SQLite.
@@ -102,3 +103,6 @@ npm run dev
 - Rich transcript editor with timestamp correction.
 - Calendar import and automatic meeting metadata.
 - Local backup/export bundle.
+=======
+# AI-Secondary-Brain
+>>>>>>> 57c07d6b2f426e78404ea94d30dc7909148d42b0
